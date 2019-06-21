@@ -1,0 +1,5 @@
+<StackPanel>
+        <TextBox x:Name="txtInput"/>
+        <Button x:Name="btnClick" Height="15"/>
+        <TextBlock x:Name="txtOutput"/>
+    </StackPanel>
